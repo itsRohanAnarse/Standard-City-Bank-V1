@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="x_188534_standar_scb_account" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Current Account</label>
+            <language>en</language>
+            <name>x_188534_standar_scb_account</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-02 09:35:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a2fe21e1b0e8010d7bb4196bc4bcb06</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-02 09:48:40</sys_updated_on>
+            <value>ca</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SavingAccount</label>
+            <language>en</language>
+            <name>x_188534_standar_scb_account</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-02 09:36:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>713fa2da1b0e8010d7bb4196bc4bcb24</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-02 09:48:44</sys_updated_on>
+            <value>sa</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>x_188534_standar_scb_account</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-02 09:35:53</sys_created_on>
+            <sys_id>393fe61e1b0e8010d7bb4196bc4bcb58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="Standard City Bank" source="x_188534_standar">7288ee521b0e8010d7bb4196bc4bcb00</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Standard City Bank">7288ee521b0e8010d7bb4196bc4bcb00</sys_scope>
+            <sys_update_name>sys_choice_x_188534_standar_scb_account_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-02 09:35:53</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

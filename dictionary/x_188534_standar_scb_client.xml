@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="scb_client" max_length="40" name="x_188534_standar_scb_client" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Related Account" max_length="32" name="related_account" reference="x_188534_standar_scb_account" type="reference"/>
+    </element>
+</database>

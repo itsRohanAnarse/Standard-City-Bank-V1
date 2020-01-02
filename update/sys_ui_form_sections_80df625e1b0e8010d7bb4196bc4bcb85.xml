@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="80df625e1b0e8010d7bb4196bc4bcb85" sys_domain="global" table="x_188534_standar_scb_account" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-02 09:38:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0df625e1b0e8010d7bb4196bc4bcb87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_188534_standar_scb_account" name="x_188534_standar_scb_account" sys_domain="global" view="Default view">80df625e1b0e8010d7bb4196bc4bcb85</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_188534_standar_scb_account" sys_domain="global" view="Default view">775faada1b0e8010d7bb4196bc4bcbb2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-02 09:38:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-02 09:38:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8cdf625e1b0e8010d7bb4196bc4bcb87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_188534_standar_scb_account" name="x_188534_standar_scb_account" sys_domain="global" view="Default view">80df625e1b0e8010d7bb4196bc4bcb85</sys_ui_form>
+            <sys_ui_section caption="SCB Account Description" display_value="SCB Account Description" name="x_188534_standar_scb_account" sys_domain="global" view="Default view">48df625e1b0e8010d7bb4196bc4bcb83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-02 09:38:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-02 09:38:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00df625e1b0e8010d7bb4196bc4bcb8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_188534_standar_scb_account" name="x_188534_standar_scb_account" sys_domain="global" view="Default view">80df625e1b0e8010d7bb4196bc4bcb85</sys_ui_form>
+            <sys_ui_section caption="SCB Account Activity Log" display_value="SCB Account Activity Log" name="x_188534_standar_scb_account" sys_domain="global" view="Default view">c0df625e1b0e8010d7bb4196bc4bcb84</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-02 09:38:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_188534_standar_scb_account</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-02 09:38:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80df625e1b0e8010d7bb4196bc4bcb85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_188534_standar_scb_account</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Standard City Bank" source="x_188534_standar">7288ee521b0e8010d7bb4196bc4bcb00</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Standard City Bank">7288ee521b0e8010d7bb4196bc4bcb00</sys_scope>
+            <sys_update_name>sys_ui_form_sections_80df625e1b0e8010d7bb4196bc4bcb85</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-02 09:38:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
