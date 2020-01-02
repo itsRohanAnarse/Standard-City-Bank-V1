@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="scb_account" language="en" table="x_188534_standar_scb_account">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>scb_account</label>
+            <language>en</language>
+            <name>x_188534_standar_scb_account</name>
+            <plural>scb_accounts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-02 09:35:22</sys_created_on>
+            <sys_id>0a1f221e1b0e8010d7bb4196bc4bcbfa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>scb_account</sys_name>
+            <sys_package display_value="Standard City Bank" source="x_188534_standar">7288ee521b0e8010d7bb4196bc4bcb00</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Standard City Bank">7288ee521b0e8010d7bb4196bc4bcb00</sys_scope>
+            <sys_update_name>sys_documentation_x_188534_standar_scb_account__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-02 09:35:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

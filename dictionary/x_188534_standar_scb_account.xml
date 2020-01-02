@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="scb_account" max_length="40" name="x_188534_standar_scb_account" type="collection">
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Current Account" value="ca"/>
+                <element inactive_on_update="false" label="SavingAccount" value="sa"/>
+            </choice>
+        </element>
+    </element>
+</database>
